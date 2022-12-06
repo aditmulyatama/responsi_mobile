@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'screens/list_screen.dart';
 
+// NIM : 124200045
+// NAMA : ADITYA DHARMA MULYATAMA
 void main() {
   runApp(const MyApp());
 }
